@@ -1,2 +1,2 @@
 # aqim-
-aku 
+aku aqim lah
